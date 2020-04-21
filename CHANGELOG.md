@@ -1,4 +1,4 @@
-## 1.5.6 ( (April 21, 2020))
+## 1.5.6 (Upcoming)
 
 **New Builder** azure-dtl allows creation of devtestlabs images in Azure. [GH-8987]
 
