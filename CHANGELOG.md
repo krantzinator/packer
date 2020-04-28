@@ -1,7 +1,5 @@
 ## 0.0.0 (Upcoming)
 
-## 0.0.0 (April 28, 2020)
-
 ## 1.5.5 (March 25,2020)
 
 ### IMPROVEMENTS:
