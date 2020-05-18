@@ -1,4 +1,4 @@
-## 0.0.0 (Upcoming)
+## 0.0.2 (May 18, 2020)
 
 ### BACKWARDS INCOMPATIBILITIES:
 
